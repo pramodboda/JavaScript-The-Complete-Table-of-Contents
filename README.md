@@ -76,17 +76,22 @@ Now lets explore each part
       - 3.4.1 Factory Functions
       - 3.4.2 `Object.create()`
       - 3.4.3 Constructor Functions
-         - 3.4.3.1 `this` Keyword
-      - 3.4.4 `new` Keyword
-      - 3.4.5 Prototype
-      - 3.4.6 ES6 Classes
-      - 3.4.7 Object.create() vs Class
-      - 3.4.8 Inheritance
-      - 3.4.7 Private vs Public
-      - 3.4.8 The 4 Pillars/ Principles of OOP
-         - 3.4.5.1 Abstraction
-         - 3.4.5.2 Encapsulation
-         - 3.4.5.3 Inheritance
-         - 3.4.5.4 Polymorphism
+      - 3.4.4 `this` Keyword
+      - 3.4.5 `new` Keyword
+      - 3.4.6 Prototype
+      - 3.4.7 ES6 Classes
+      - 3.4.8 Object.create() vs Class
+      - 3.4.9 Inheritance
+      - 3.4.10 Private vs Public
+      - 3.4.11 The 4 Pillars/ Principles of OOP
+         - 3.4.11.1 Abstraction
+         - 3.4.11.2 Encapsulation
+         - 3.4.11.3 Inheritance
+         - 3.4.14.4 Polymorphism
    - 3.5 Functional Programming (FP)
    - 3.6 OOP vs FP
+   
+   
+# Coming Soon - will update shortly
+## PART 3: Modern JavaScript**
+## PART 4: Data Structures and Algorithms(DS Algo/DSA)**

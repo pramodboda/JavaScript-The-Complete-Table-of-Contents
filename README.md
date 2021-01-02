@@ -73,6 +73,16 @@ Now lets explore each part
    - 3.2 Why JavaScript is a “multi-paradigm” language?
    - 3.3 OOP and FP Overview
    - 3.4 Object-Oriented Programming (OOP)
-      - 3.4.1 
+      - 3.4.1 Factory Functions
+      - 3.4.2 `Object.create()`
+      - 3.4.3 Constructor Functions
+         - 3.4.3.1 
+      - 3.4.4 ES6 Classes
+      - 3.4.5 Object.create() vs Class
+      - 3.4.6 The 4 Pillars/ Principles of OOP
+         - 3.4.5.1 Abstraction
+         - 3.4.5.2 Encapsulation
+         - 3.4.5.3 Inheritance
+         - 3.4.5.4 Polymorphism
    - 3.5 Functional Programming (FP)
    - 3.6 OOP vs FP

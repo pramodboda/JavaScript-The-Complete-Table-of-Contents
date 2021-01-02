@@ -38,7 +38,7 @@ Now lets explore each part
    * 1.10 Single Threaded Model
 2. The main four pillars for JavaScript(1. Scope, 2. Closures, 3. Prototypal Inheritance, 4. Data Types and Coercion)
    * 2.1 Scope
-    * 2.1.1 Execution Context
+    ** 2.1.1 Execution Context
     * 2.1.2 Lexical Environment 
     * 2.1.3 Scope Chain
     * 2.1.4 Hoisting

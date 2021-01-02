@@ -36,4 +36,4 @@ Now lets explore each part
    * 1.8 Memory Leaks
    * 1.9 Garbage Collection
    * 1.10 Single Threaded Model
-2. The main four pillars for JavaScript
+2. The main four pillars for JavaScript(1. Scope, 2. Closures, 3. Prototypal Inheritance, 4. Data Types and Coercion)

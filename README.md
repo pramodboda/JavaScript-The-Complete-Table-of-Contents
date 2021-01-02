@@ -26,6 +26,6 @@ Now lets explore each part
 
 ## PART 2: Advanced JavaScript
 1. JavaScript Engine
-* 1.1 JavaScript Engine
-* 1.2 JavaScript Runtime Environment
-* 1.3 
+ * 1.1 JavaScript Engine
+ * 1.2 JavaScript Runtime Environment
+ * 1.3 

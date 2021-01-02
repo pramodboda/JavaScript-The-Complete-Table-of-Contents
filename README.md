@@ -90,6 +90,8 @@ Now lets explore each part
          - 3.4.14.4 Polymorphism
    - 3.5 Functional Programming (FP)
    - 3.6 OOP vs FP
+4. Asynchronous
+5. ...
    
    
 # Coming Soon - will update shortly

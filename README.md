@@ -58,4 +58,17 @@ Now lets explore each part
       - 2.3.1 `Object.prototype`
       - 2.3.2 `__proto__`
       - 2.3.3 `prototype` vs `__proto__`
-      - 2.4 Data Types and Coercion
+   - 2.4 Data Types and Coercion
+      - 2.4.1 Advanced JavaScript Data Types
+      - 2.4.2 Pass By Value vs Pass By Reference
+      - 2.4.3 Type Coercion
+      - 2.4.4 Dynamic Typing vs Static Typing
+      - 2.4.5 Weakly Typed vs Strongly Typed
+3. JavaScript multi-Paradigms
+   - 3.1 What is Programming Paradigms?
+   - 3.2 Why JavaScript is a “multi-paradigm” language?
+   - 3.3 OOP and FP Overview
+   - 3.4 Object-Oriented Programming (OOP)
+      - 3.4.1 
+   - 3.5 Functional Programming (FP)
+   - 3.6 OOP vs FP

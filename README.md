@@ -1,7 +1,7 @@
 # JavaScript The Complete Table of Contents - 2021 by Pramod Boda
 Before using others code(Frameworks like React, Angular, Vue etc), First understand what exactly JavaScript is.
 Below table of content is just like complete syllabus of JavaScript and NOT the complete content.
-May be in future, I may provide a complete javascript content with examples for you. 
+May be in future, I may provide a complete JavaScript content with examples for you. 
 
 For better understanding of JavaScript language, I have divided into 4 parts
 

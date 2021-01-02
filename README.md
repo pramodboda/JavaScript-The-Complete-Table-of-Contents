@@ -26,16 +26,16 @@ Now lets explore each part
 
 ## PART 2: Advanced JavaScript
 1. JavaScript Engine
-   -1.1 JavaScript Engine
-   -1.2 JavaScript Runtime Environment
-   -1.3 Interpreter, Compailer, JIT Compiler
-   -1.4 Writing Optimized Code
-   -1.5 Call Stack
-   -1.6 Memory Heap
-   -1.7 Stack Overflow
-   -1.8 Memory Leaks
-   -1.9 Garbage Collection
-   -1.10 Single Threaded Model
+   - 1.1 JavaScript Engine
+   - 1.2 JavaScript Runtime Environment
+   - 1.3 Interpreter, Compailer, JIT Compiler
+   - 1.4 Writing Optimized Code
+   - 1.5 Call Stack
+   - 1.6 Memory Heap
+   - 1.7 Stack Overflow
+   - 1.8 Memory Leaks
+   - 1.9 Garbage Collection
+   - 1.10 Single Threaded Model
 2. The main four pillars for JavaScript(1. Scope, 2. Closures, 3. Prototypal Inheritance, 4. Data Types and Coercion)
 -2.1 Scope
    -2.1.1 Execution Context

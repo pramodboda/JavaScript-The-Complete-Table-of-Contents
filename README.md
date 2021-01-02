@@ -14,7 +14,7 @@ For better understanding of JavaScript language, I have divided into 4 parts
 **PART 4: Data Structures and Algorithms(DS Algo/DSA)**
 
 Now lets explore each one
-
+---
 ## PART 1: Basic and Intermediate JavaScript
 1. Introduction
 2. Lexical Structure
@@ -27,7 +27,7 @@ Now lets explore each one
 9. Objects
 10. Arrays
 11. Functions
-
+---
 ## PART 2: Advanced JavaScript
 1. JavaScript Engine
    - 1.1 JavaScript Engine
@@ -93,7 +93,7 @@ Now lets explore each one
 4. Asynchronous
 5. ...
    
-   
+--- 
 # Coming Soon - will update shortly
 ## PART 3: Modern JavaScript**
 ## PART 4: Data Structures and Algorithms(DS Algo/DSA)**

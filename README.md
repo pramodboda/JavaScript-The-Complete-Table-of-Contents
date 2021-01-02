@@ -47,7 +47,7 @@ Now lets explore each part
       - 2.1.7 Dynamic Scope vs Lexical Scope
       - 2.1.8 `this` - `.call()`, `.apply()`, `.map()`
       - 2.1.9 IIFE
-   - 2.2 Closure
+   - 2.2 Closures
       - 2.2.1 Functions are Objects
       - 2.2.2 First class citizens
       - 2.2.3 Higher Order Functions

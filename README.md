@@ -1,4 +1,7 @@
-# JavaScript The Complete Table of Contents 2021
+# JavaScript The Complete Table of Contents - 2021 by Pramod Boda
+Before using others code(Frameworks like React, Angular, Vue etc), First understand what exactly JavaScript is.
+Below table of content is just like complete syllabus of JavaScript and NOT the complete content.
+May be in future, I may provide a complete javascript content with examples for you. 
 
 For better understanding of JavaScript language, I have divided into 4 parts
 
@@ -11,6 +14,7 @@ For better understanding of JavaScript language, I have divided into 4 parts
 **PART 4: Data Structures and Algorithms(DS Algo/DSA)**
 
 Now lets explore each part
+
 ## PART 1: Basic and Intermediate JavaScript
 1. Introduction
 2. Lexical Structure

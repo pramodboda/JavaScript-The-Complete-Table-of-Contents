@@ -2,13 +2,13 @@
 
 For better understanding of JavaScript language, I have divided into 4 parts
 
-**Strong** PART 1: Basic and Intermediate JavaScript **Strong**
+__Strong__ PART 1: Basic and Intermediate JavaScript __Strong__
 
-**Strong** PART 2: Advanced JavaScript **Strong**
+__Strong__ PART 2: Advanced JavaScript __Strong__
 
-**Strong** PART 3: Modern JavaScript **Strong**
+__Strong__ PART 3: Modern JavaScript __Strong__
 
-**Strong** PART 4: Data Structures and Algorithms(DS Algo/DSA) **Strong**
+__Strong__ PART 4: Data Structures and Algorithms(DS Algo/DSA) __Strong__
 
 Now lets explore each part
 ## PART 1: Basic and Intermediate JavaScript

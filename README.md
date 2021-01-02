@@ -12,3 +12,14 @@ For better understanding of JavaScript language, I have divided into 4 parts
 
 Now lets explore each part
 ## PART 1: Basic and Intermediate JavaScript
+1. Introduction
+2. Lexical Structure
+3. Basic - Data Types and Data Structures
+4. Basic - Variables
+5. Expressions and Statements
+6. Operators
+7. Conditions
+8. Loopy
+9. Objects
+10. Arrays
+11. Functions

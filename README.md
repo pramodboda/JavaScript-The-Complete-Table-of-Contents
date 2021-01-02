@@ -13,7 +13,7 @@ For better understanding of JavaScript language, I have divided into 4 parts
 
 **PART 4: Data Structures and Algorithms(DS Algo/DSA)**
 
-Now lets explore each part
+Now lets explore each one
 
 ## PART 1: Basic and Intermediate JavaScript
 1. Introduction

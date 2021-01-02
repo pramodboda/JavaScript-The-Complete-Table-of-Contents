@@ -76,10 +76,14 @@ Now lets explore each part
       - 3.4.1 Factory Functions
       - 3.4.2 `Object.create()`
       - 3.4.3 Constructor Functions
-         - 3.4.3.1 
-      - 3.4.4 ES6 Classes
-      - 3.4.5 Object.create() vs Class
-      - 3.4.6 The 4 Pillars/ Principles of OOP
+         - 3.4.3.1 `this` Keyword
+      - 3.4.4 `new` Keyword
+      - 3.4.5 Prototype
+      - 3.4.6 ES6 Classes
+      - 3.4.7 Object.create() vs Class
+      - 3.4.8 Inheritance
+      - 3.4.7 Private vs Public
+      - 3.4.8 The 4 Pillars/ Principles of OOP
          - 3.4.5.1 Abstraction
          - 3.4.5.2 Encapsulation
          - 3.4.5.3 Inheritance

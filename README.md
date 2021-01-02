@@ -23,3 +23,9 @@ Now lets explore each part
 9. Objects
 10. Arrays
 11. Functions
+
+## PART 2: Advanced JavaScript
+1. JavaScript Engine
+* 1.1 JavaScript Engine
+* 1.2 JavaScript Runtime Environment
+* 1.3 

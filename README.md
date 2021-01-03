@@ -59,7 +59,7 @@ Now lets explore each one
       - 2.2.4 Closure
       - 2.2.5 Closure and Memory
       - 2.2.6 Closure and Encapsulation
-   - 2.3 Prototypal Inhertance
+   - 2.3 Prototype and Prototypal Inhertance
       - 2.3.1 `Object.prototype`
       - 2.3.2 `__proto__`
       - 2.3.3 `prototype` vs `__proto__`

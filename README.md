@@ -96,5 +96,5 @@ Now lets explore each one
    
 --- 
 # Coming Soon - will update shortly
-## PART 3: Modern JavaScript**
-## PART 4: Data Structures and Algorithms(DS Algo/DSA)**
+## PART 3: Modern JavaScript
+## PART 4: Data Structures and Algorithms(DS Algo/DSA)

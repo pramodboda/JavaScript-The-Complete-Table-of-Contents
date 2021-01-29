@@ -92,10 +92,11 @@ Now lets explore each one
    - 3.5 Functional Programming (FP)
    - 3.6 OOP vs FP
 4. Asynchronous
-5. ...
+5. Modules In JavaScript
+6. Error Handling
    
 --- 
-# Coming Soon - will update shortly
 ## PART 3: Modern JavaScript
+# Coming Soon - will update shortly
 ## PART 4: Data Structures and Algorithms(DS Algo/DSA)
 

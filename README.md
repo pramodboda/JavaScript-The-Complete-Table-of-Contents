@@ -1,7 +1,8 @@
+![JS](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png)
 # JavaScript The Complete Table of Contents - 2021 by Pramod Boda
-Before using others code(Frameworks like React, Angular, Vue etc), First understand what exactly JavaScript is.
-Below table of content is just like complete syllabus of JavaScript and NOT the complete content.
-May be in future, I may provide the complete JavaScript content with examples for you. 
+Before using others code(Frameworks like React, Angular, Vue etc), First understand what exactly JavaScript Is.
+Below table of content is just complete syllabus of JavaScript and NOT the complete content.
+May be in future, I may provide the complete JavaScript content with examples. 
 
 For better understanding of JavaScript language, I have divided into 4 parts
 

@@ -1,4 +1,4 @@
-![JS](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-128.png)
+![JS](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-64.png)
 # JavaScript The Complete Table of Contents - 2021 by Pramod Boda
 Before using others code(Frameworks like React, Angular, Vue etc), First understand what exactly JavaScript Is.
 Below table of content is just complete syllabus of JavaScript and NOT the complete content.
